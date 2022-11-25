@@ -1,0 +1,51 @@
+body{
+    background-color:black;
+}
+.i1{
+    color:white;
+    padding: 10px;
+}
+.div1{
+    width: 500px;
+    color: aliceblue;
+    padding: 20px;
+    display: flex;
+}
+.content{
+    margin: 40px;
+}
+.img1{
+    transform: translatex(130px);
+}
+.img2{
+    position: absolute;
+    left: 0%;
+    transform: translatex(130px);
+}
+img{
+    padding: 25px;
+}
+.btn{
+    width: 70px;
+    height: 38px;
+    border: 2px solid black;
+    padding: 3px;
+    font-style:inherit;
+    display: none;
+    margin-top: 10px;
+}
+p{
+    color: aliceblue;
+    display: none;
+}
+.be{
+    margin-left: 30px;
+    line-height: 70px;
+}
+.img2 img:hover{
+    padding:20px ;
+    transition: .5s;
+}
+.div4{
+    display: inline;
+}
